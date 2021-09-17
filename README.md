@@ -24,4 +24,6 @@ The winner of this election as image shows is the candidate Diana DeGette with a
 
 # Election-Audit Summary
 
+This script can modified to to taylor diferent tasks and test percentage of voters by county versus candidate, revewling the popularity of each candidate based on county or area, or change counties to states to analyse a federal election.
+
 
