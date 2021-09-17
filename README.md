@@ -10,5 +10,5 @@ The purpose of this project is to perform election audit using Pyhton, to help C
 
 ## The Data
 The data shows ballot ID, county, and candidate name.
-![This is an image]
+![This is an image]https://github.com/Fbullman/Election_Analysis/blob/main/Election%20Results.png
 
