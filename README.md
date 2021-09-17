@@ -8,4 +8,7 @@ The purpose of this project is to perform election audit using Pyhton, to help C
   - Percentage of votes each candidate won
   - The winner of the election based on popular vote
 
+## The Data
+The data shows ballot ID, county, and candidate name.
+![This is an image]
 
