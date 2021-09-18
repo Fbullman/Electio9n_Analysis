@@ -11,6 +11,7 @@ The purpose of this project is to perform election audit using Pyhton, to help C
 
 ## Election-Audit Results
 The data shows ballot ID, county, and candidate name.
+
 ![This is an image](https://github.com/Fbullman/Election_Analysis/blob/main/Election%20Results.png)
 
 This audit shows the total number of votes casted 369,711.
