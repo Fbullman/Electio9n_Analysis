@@ -16,9 +16,9 @@ The data shows ballot ID, county, and candidate name.
 This audit shows the total number of votes casted 369,711.
 The percentage of total votes for each county as follows:
 
-- Denver counte had the largest amount of votes: 306,055 82.8% of total votes
-- Jefferson county: 38,855, 10.5% of total votes
-- Arapahoe county:24,801 6.7% of total votes
+- Denver counte had the largest amount of votes: 306,055 or 82.8% of total votes
+- Jefferson county: 38,855 or 10.5% of total votes
+- Arapahoe county:24,801 or 6.7% of total votes
 
 The winner of this election as image shows is the candidate Diana DeGette with a total of 272,892 votes, 73.8% of total votes 
 
